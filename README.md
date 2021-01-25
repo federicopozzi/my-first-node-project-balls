@@ -1,2 +1,2 @@
 # my-first-node-project
- A simle node project
+ This is first try of node project using socket.io and herokuapp
